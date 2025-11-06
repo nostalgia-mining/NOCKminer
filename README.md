@@ -1,6 +1,6 @@
 Nockminer 0.1.5+1a 🔥 New version out!
 --------------------------------------
-👉🏼 custom HiveOS wrapper that supports Flight Sheets for easy deployment on HiveOS rigs. Go to [Releases](https://github.com/nostalgia-mining/NOCKminer/releases)
+👉🏼 custom HiveOS wrapper that supports Flight Sheets for easy deployment on HiveOS rigs. [Releases](https://github.com/nostalgia-mining/NOCKminer/releases)
 
 Features:
 
