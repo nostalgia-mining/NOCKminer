@@ -2,7 +2,9 @@ Nockminer 0.2.1 🔥 New version out!
 -----------------------------------
 v.0.2.1: Up to 40% performance increase for 4090 and 5090 GPUs and up to 25% for the rest.
 
-v.0.2.0: More than 100% performance improvement over the previous version. Grab the latest version here [Releases](https://github.com/nostalgia-mining/NOCKminer/releases)
+v.0.2.0: More than 100% performance improvement over the previous version.
+
+Grab the latest version in [Releases](https://github.com/nostalgia-mining/NOCKminer/releases)
 
 👉🏼 this version supports only v1 wallets
 
