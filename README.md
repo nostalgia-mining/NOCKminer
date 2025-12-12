@@ -1,8 +1,10 @@
-Nockminer 0.1.6 🔥 New version out!
+Nockminer 0.2.0 🔥 New version out!
 -----------------------------------
-✅ added support for v1 wallets
+More than 100% performance improvement over the previous version. Grab the latest version here [Releases](https://github.com/nostalgia-mining/NOCKminer/releases)
 
-👉🏼 custom HiveOS wrapper that supports Flight Sheets for easy deployment on HiveOS rigs. [Releases](https://github.com/nostalgia-mining/NOCKminer/releases)
+👉🏼 this version supports only v1 wallets
+
+👉🏼 custom HiveOS wrapper that supports Flight Sheets for easy deployment on HiveOS rigs.
 
 Features:
 
@@ -44,10 +46,10 @@ HiveOs Flight Sheet Extra config arguments:
         how many CPU threads to use while mining.
         Tip: for older CPUs use --threads-per-card 1
 
-    --donate <donate percentage>
+    --donate <donate percentage> (0-100)
         how much from your mining time you will donate to me.
-        example: --donate 10 will donate 10% of your mining time.
-               --donate 0 will turn donations completely off.
+        example: --donate 5 will donate 5% of your mining time.
+                 --donate 0 will turn donations completely off.
 
     --nostats
         turns the miner stats off, so they don't appear on screen.
